@@ -1,6 +1,6 @@
 # Walkguide Studio
 
-Built during **Hacktoberfest Week 2** for the [DEV Open-Source AI Challenge: Side Hustle](https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-side-hustle-2550-prizes-across-18-winners-55ba).
+Built during **Hacktoberfest Week 2** for the [DEV Open-Source AI Challenge: Side Hustle](https://dev.to/devteam/join-the-hacktoberfest-open-source-ai-challenge-side-hustle-2550-in-prizes-across-18-winners-55ba?bb=264692).
 
 ## Demo
 
