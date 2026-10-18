@@ -1,0 +1,24 @@
+{
+  "title": "Bengaluru: Green Spaces and Granite",
+  "operator": "Walkguide demo route",
+  "stops": [
+    {
+      "name": "Cubbon Park",
+      "lat": 12.97669,
+      "lon": 77.595,
+      "notes": "Cubbon Park is officially known as Sri Chamarajendra Park. It was established in 1870 by John Meade, then acting Commissioner of Mysore. Major General Richard Sankey conceived the park landscape. It was officially renamed Sri Chamarajendra Park in 1927."
+    },
+    {
+      "name": "Vidhana Soudha",
+      "lat": 12.979722,
+      "lon": 77.590556,
+      "notes": "Vidhana Soudha houses Karnataka's State Legislature and Secretariat. It was conceived by Kengal Hanumanthaiah, then Chief Minister of Mysore State, and completed in 1956. The Karnataka Legislature describes its architecture as Neo-Dravidian. It is built largely with Bangalore granite."
+    },
+    {
+      "name": "Attara Kacheri (Karnataka High Court)",
+      "lat": 12.97806,
+      "lon": 77.59254,
+      "notes": "Attara Kacheri houses the High Court of Karnataka. The Bengaluru Urban district describes it as a red brick and stone building in the Graeco-Roman architectural style."
+    }
+  ]
+}

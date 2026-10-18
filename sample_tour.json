@@ -1,0 +1,9 @@
+{
+  "title": "The Imaginary Lantern Walk",
+  "operator": "Fictional Example Tours",
+  "stops": [
+    {"name": "Moonbeam Arch", "lat": 0.0, "lon": 0.0, "notes": "This is a fictional stone arch. Local storytellers say lanterns once glowed here."},
+    {"name": "Paper Boat Garden", "lat": 0.0005, "lon": 0.0008, "notes": "This is a fictional garden. Blue paper boats are part of the made-up annual celebration."},
+    {"name": "Clockwork Fountain", "lat": 0.001, "lon": 0.001, "notes": "This is a fictional fountain. Its imaginary clockwork turns at sunset."}
+  ]
+}

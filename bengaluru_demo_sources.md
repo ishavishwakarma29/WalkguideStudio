@@ -1,0 +1,8 @@
+# Bengaluru demo tour: fact and coordinate notes
+
+The tour contains three real, central Bengaluru landmarks. Narration notes are sourced; the operator should confirm current access, closures, safe pedestrian approaches, and the exact viewpoint before publishing. The lines on the generated map connect stop pins directly and are not pedestrian turn-by-turn directions.
+
+- **Cubbon Park:** The Bengaluru Urban district site says the park was established in 1870 by John Meade, conceived by Major General Richard Sankey, and renamed Sri Chamarajendra Park in 1927. [Government of Karnataka: Cubbon Park](https://bengaluruurban.nic.in/en/tourist-place/cubbon-park/)
+- **Vidhana Soudha:** The Karnataka Legislature says the building was completed in 1956, houses the legislature and government, is Neo-Dravidian in style, and is built largely with Bangalore granite. [Karnataka Legislature: Vidhana Soudha](https://kla.kar.nic.in/council/vds.htm)
+- **Attara Kacheri:** The Bengaluru Urban district describes the High Court building as red brick and stone in the Graeco-Roman style. [Government of Karnataka: Tourism](https://bengaluruurban.nic.in/en/tourism/)
+- **Approximate map pins:** Cubbon Park uses the GeoNames park coordinate (12.97669, 77.59500); Vidhana Soudha uses the Wikidata coordinate converted from 12°58′47″N, 77°35′26″E; the Attara Kacheri pin is an approximate exterior point (12.97806, 77.59254). These are map pins, not verified sidewalk entrances. [GeoNames: Cubbon Park](https://www.geonames.org/6692908/cubbon-park.html), [Wikidata: Vidhana Soudha](https://www.wikidata.org/wiki/Q283257), [Attara Kacheri coordinate reference](https://in.geoview.info/high_court_of_karnataka%2C20208686727w)
